@@ -32,7 +32,7 @@ return {
 				"clangd", -- C/C++
 				"html", -- HTML
 				"cssls", -- CSS
-				"tsserver", -- TypeScript/JavaScript
+				"ts_ls", -- JavaScript/TypeScript
 				"pyright", -- Python
 				"gopls", -- GO
 			},

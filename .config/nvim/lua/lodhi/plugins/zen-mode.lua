@@ -2,6 +2,6 @@ return {
 	"folke/zen-mode.nvim",
 	opts = {},
 	keys = {
-		{ "<leader>zm", "<cmd>ZenMode<CR>", desc = "Toggle zen mode" },
+		{ "<leader>z", "<cmd>ZenMode<CR>", desc = "Zen mode" },
 	},
 }
